@@ -1,0 +1,33 @@
+*.zip
+
+# esp-idf
+build/
+.vscode/
+html/
+
+
+################################
+# kicad
+# temp files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+
+_autosave-*
+*.tmp
+*-rescue.lib
+*-save.pro
+*.save.kicad_pcb
+
+# netlist
+*.net
+
+# autorouter
+*.dsn
+*.ses
+
+# bom
+src/Hardware/*/*.xml
+src/Hardware/*/*.csv
