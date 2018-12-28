@@ -1,0 +1,44 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP CONN_01X02
+D Connector 01x02
+$ENDCMP
+#
+$CMP CONN_01X03
+D Connector 01x03
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+$ENDCMP
+#
+$CMP FT231XS-R
+D FTDI Chip FT231XS-R, Interface RS232, RS422, RS485, SIE, UART 3MBd, 5 V, 20-pin, SSOP
+F http://uk.rs-online.com/web/p/products/7570032P
+$ENDCMP
+#
+$CMP OKL-T_3-W12N-C
+D DC/DC conv.,PoL,4.5-14Vin,0.591-5.5Vo 3A Non-Isolated DC-DC Converter 12V dc Input, 0.591  5.5V dc Output, 3A
+F http://uk.rs-online.com/web/p/products/1670629
+$ENDCMP
+#
+$CMP PCA9685PW,112
+D 16-channel, 12-bit PWM Fm+ I2C-bus LED controller
+F https://www.nxp.com/docs/en/data-sheet/PCA9685.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP SKRPACE010
+D Tactile Switches 4.2x3.2x2.5mm 260gf
+F http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPACE010.html
+$ENDCMP
+#
+#End Doc Library
