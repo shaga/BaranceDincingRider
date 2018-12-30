@@ -1,4 +1,4 @@
-update=2018/12/28 11:34:40
+update=2018/12/30 20:44:20
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=RcEsp32Components
+LibName31=D:/KiCadLib/SamacSys_Parts
