@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name Elebot_footprint)(type KiCad)(uri D:\Projects\ElebotKit\src\Hardware\Product\Elebot_footprint.pretty)(options "")(descr ""))
-  (lib (name FootPrints)(type KiCad)(uri "$(KIPRJMOD)\\FootPrints.pretty")(options "")(descr ""))
+  (lib (name FootPrints)(type KiCad)(uri "$(KIPRJMOD)/FootPrints.pretty")(options "")(descr ""))
 )
