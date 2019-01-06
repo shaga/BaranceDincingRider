@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:RcEsp32Board-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,7 +29,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:RcEsp32Components
-LIBS:Connector_Generic
 LIBS:RcEsp32Board-cache
 EELAYER 25 0
 EELAYER END
@@ -551,10 +549,10 @@ F 3 "" H 3900 4350 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L LED LD2
+L LED LD1
 U 1 1 5C29E336
 P 4400 4350
-F 0 "LD2" H 4400 4450 50  0000 C CNN
+F 0 "LD1" H 4400 4450 50  0000 C CNN
 F 1 "LED" H 4400 4250 50  0000 C CNN
 F 2 "FootPrints:LED_1206_HandSoldering" H 4400 4350 50  0001 C CNN
 F 3 "" H 4400 4350 50  0001 C CNN
